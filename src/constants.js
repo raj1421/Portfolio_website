@@ -45,7 +45,7 @@ import vpsLogo from './assets/education_logo/paramount_logo.png';
 // Project Section Logo's
 import githubdetLogo from './assets/work_logo/github_det.png';
 import csprepLogo from './assets/work_logo/cs_prep.png';
-import movierecLogo from './assets/work_logo/movie_rec.png';
+import movierecLogo from './assets/work_logo/fitness-app-logo.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
 import npmLogo from './assets/work_logo/npm.png';
 import webverLogo from './assets/work_logo/web_dig.png';
@@ -216,18 +216,18 @@ export const SkillsInfo = [
         "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
       image: csprepLogo,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/raj1421/chicken-disease-clasification-using-CNN",
+      github: "https://github.com/raj1421/Cs-prep",
       webapp: "https://csprep.netlify.app/",
     },
     {
       id: 1,
-      title: "Movie Recommendation App",
+      title: "Fitness Exercise Recommender",
       description:
-        "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
+        "A React-based web application that provides Exercise recommendations based on different mucsle groups, and popular trends. The intuitive design and smooth experience make it a go-to app for Fitness enthusiasts.",
       image: movierecLogo,
       tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/raj1421/E-kyc-using-Computervision-and-ocr",
-      webapp: "https://movie-recommendation-app-jet.vercel.app/",
+      webapp: "https://fitness-exercise-recomding-app.vercel.app/",
     },
     {
       id: 2,
