@@ -47,7 +47,7 @@ import githubdetLogo from './assets/work_logo/github_det.png';
 import csprepLogo from './assets/work_logo/cs_prep.png';
 import movierecLogo from './assets/work_logo/fitness-app-logo.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
-import npmLogo from './assets/work_logo/npm.png';
+import npmLogo from './assets/work_logo/food_delhivery_app.png';
 import webverLogo from './assets/work_logo/web_dig.png';
 import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
@@ -231,13 +231,13 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      title: "Email Validator NPM Package",
+      title: "Food Delivery App",
       description:
-        "An efficient and customizable NPM package for validating email addresses. Built using React.js and Node.js, it provides robust validation features to help developers ensure that email inputs meet required formats and standards.",
+        "A full-stack food delivery application designed to simplify the food ordering experience. The app allows users to browse restaurants, view menus, place orders, and track deliveries in real time. It features a responsive UI, secure authentication, and seamless payment integration.",
       image: npmLogo,
-      tags: ["React JS", "Node.js", "NPM", "Validation"],
-      github: "https://github.com/raj1421",
-      webapp: "https://www.npmjs.com/package/cmtk-email-validator",
+      tags:["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
+      github: "https://github.com/raj1421/food-delivery-app",
+      webapp: "https://food-delivery-app-frontend-yu9j.onrender.com",
     },
     {
       id: 3,
