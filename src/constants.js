@@ -149,6 +149,25 @@ export const SkillsInfo = [
         "SQL",
       ],
     },
+     {
+      id: 2,
+      img: newtonschoolLogo,
+      role: "Business Analyst Intern",
+      company: "Kyuden International Corporation",
+      date: "October 2025",
+      desc: "Worked as a Business Analyst Intern in Fukuoka, Japan, proposing strategic business solutions for Kyuden’s potential operations in India. Conducted market research, analyzed data-driven insights, and evaluated business feasibility to support international expansion decisions. Collaborated with cross-cultural teams to prepare presentations and reports aligning with corporate strategy.",
+      skills: [
+        "Business Analysis",
+    "Market Research",
+    "Data Analytics",
+    "Excel",
+    "Power BI",
+    "Python",
+    "Tableau",
+    "Presentation",
+    "Communication",
+      ],
+    }
     // {
     //   id: 2,
     //   img: newtonschoolLogo,
@@ -227,7 +246,7 @@ export const SkillsInfo = [
       image: movierecLogo,
       tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/raj1421/E-kyc-using-Computervision-and-ocr",
-      webapp: "https://fitness-exercise-recomding-app.vercel.app/",
+      webapp: "https://fitness-exercise-recomding-app.onrender.com/",
     },
     {
       id: 2,
