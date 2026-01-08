@@ -280,13 +280,13 @@ export const SkillsInfo = [
     },
     {
       id: 5,
-      title: "Coding Master",
+      title: "Github-Profile-Search-App",
       description:
-        "An ed-tech platform where users can access tech and coding-related blogs, notes, interview questions, e-books, and premium content with payment integration. Built with full-stack technologies for a seamless learning experience.",
+        "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
       image: cmLogo,
-      tags: ["React JS", "Node.js", "MongoDB", "Express", "Payment Integration"],
-      github: "https://github.com/raj1421",
-      webapp: "https://codingmasterweb.in/",
+      tags: ["React JS", "HTML", "CSS", "JavaScript"],
+      github: "https://github.com/raj1421/GitHub-Profile-Search-App-Using-React-JS",
+      webapp: "https://github-profile-search-app-using-react-js.onrender.com/",
     },
     {
       id: 6,
@@ -295,8 +295,8 @@ export const SkillsInfo = [
         "A React.js-based image search application that allows users to search and download high-quality images from the web. Built using external APIs to ensure a vast library of results for various queries.",
       image: imagesearchLogo,
       tags: ["React JS", "API", "Search Feature", "CSS", "Javascript"],
-      github: "https://github.com/raj1421",
-      webapp: "https://imagsearch.netlify.app/",
+      github: "https://github.com/raj1421/Image_Search-App",
+      webapp: "https://image-search-app-af8q.onrender.com",
     },
     {
       id: 7,
